@@ -3,11 +3,12 @@
  
  I learn with help of the GOIT Academy.
  
- Happy to announce that I completed my first project. 
+ Happy to announce that I completed my first team project. 
  
- You can see my whole journey from goit-markup-hw-01 all the way down to goit-markup-hw-08 or check the final result (8th part).
+ It went fast and the result is preety good. Team work is a whole different story than solo mode. Maybe it's obvious, but for me it wasn't until now. 
+ You can check it out here. [GH Repo link](https://github.com/pawelszopinski/icecream-team-goit)
  
- Currently I am preparing to my first team project. So excited 😄
+ Currently I am exploring FrontEnd Mentor site to pick up couple projects. So excited 😄
  
  👯 I’m looking to collaborate on HTML&CSS projects.
 
