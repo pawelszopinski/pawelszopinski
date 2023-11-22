@@ -3,13 +3,9 @@
 Hey there! 👋 I'm on a journey to become a seasoned FrontEnd Developer, and I've been honing my skills with the amazing resources at GOIT Academy. Teamwork brings a whole new dynamic to the development process, and the results are pretty darn good, if I may say so myself.
 
 ## Check out Team Projects I was involed in:
-1.[IceCream Team Project](https://github.com/pawelszopinski/icecream-team-goit)
-
-  [Project Demo](https://marlenawojtczak.github.io/projekt-grupa-4/)
+1.[IceCream Team Project](https://github.com/pawelszopinski/icecream-team-goit)  [Project Demo](https://marlenawojtczak.github.io/projekt-grupa-4/)
   
-2.[Moviepedia](https://github.com/pawelszopinski/Project-07)
-
-  [Project Demo](https://raffamieczkowski.github.io/Project-07/)
+2.[Moviepedia](https://github.com/pawelszopinski/Project-07)  [Project Demo](https://raffamieczkowski.github.io/Project-07/)
 
 Since my last update, I've been keeping the momentum going:
 
